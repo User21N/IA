@@ -18,12 +18,18 @@ afirmacao: [ "Você sabe apenas a base sobre a globalização. ",
 {
 texto: "Médio",
 
-afirmacao: "Você tem um bom entendimento sobre a globalização. "
+afirmacao: [ "Você tem um bom entendimento sobre a globalização. ",
+    "Seu nivel de conhecimento para esse assunto é bom",
+    "Realização de exercícios pode te dar ainda mais conhecimento sobre o assunto."
+]
 },
 {
 texto: "Alto",
 
-afirmacao: "Você tem tem um conhecimento aprofundado sobre a globalização."
+afirmacao: [ "Você tem tem um conhecimento aprofundado sobre a globalização.",
+      "Parabéns pelo seu conhecimento, continue assim ",
+      "Sempre deixe pelo menos 1h do seu dia para os estudos."
+      ]
 }
 ]
 },
@@ -33,20 +39,26 @@ alternativas: [
 {
 texto: "a)   protecionismo econômico praticado pelos países desenvolvidos",
 
-afirmacao: " Está alternativa está incorreta." 
+afirmacao: [ " Esta alternativa está incorreta." ,
+       "Não foi dessa vez, mas continue se esforçando que irá conseguir! "
+]
+
 },
 {
 texto: "b) desenvolvimento dos meios de transporte e de comunicação",
 
-afirmacao: "1-B) Esta alternativa está correta pois a globalização é um processo de integração econômica e social que necessita de uma rede de ligações entre os diferentes pontos do globo. "
+afirmacao:"1-B) Esta alternativa está correta pois a globalização é um processo de integração econômica e social que necessita de uma rede de ligações entre os diferentes pontos do globo. "
+},[
+          "Parabéns está correto, continue assim."],
+{
+texto:  "c) emprego de técnicas tradicionais de produção, como o fordismo",
+afirmacao: [ "Esta alternativa está incorreta.",
+        "Não foi dessa vez, mas continue se esforçando que irá conseguir!"]
 },
 {
-texto: "c) emprego de técnicas tradicionais de produção, como o fordismo",
-afirmacao: "Está alternativa está incorreta. "
-},
-{
-texto: "d) comprometimento com o desenvolvimento sustentável das nações",
-afirmacao: "Está alternativa está incorreta. "
+texto:  "d) comprometimento com o desenvolvimento sustentável das nações",
+afirmacao:[ "Esta alternativa está incorreta.",
+           "Não foi dessa vez, mas continue se esforçando que irá conseguir! "]
 }
 
 ]
@@ -130,7 +142,7 @@ atual++;
 mostraPergunta();
 }
 function mostraResultado() {
-caixaPerguntas.textContent = "Obrigado por completar o quiz!";
+caixaPerguntas.textContent = "Obrigado por completar o quiz! :)";
 textoResultado.textContent = historiaFinal;
 caixaAlternativas.textContent = "";
 }
