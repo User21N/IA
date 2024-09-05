@@ -10,7 +10,10 @@ alternativas: [
 {
 texto: "Baixo",
 
-afirmacao: "Você sabe apenas a base sobre a globalização. "
+afirmacao: [ "Você sabe apenas a base sobre a globalização. ",
+    "É necessário estudar mais sobre o assunto",
+    "Realizar pesquisas e fazer exercícios pode ajudar."
+]
 },
 {
 texto: "Médio",
