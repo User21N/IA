@@ -68,21 +68,25 @@ enunciado: "2 - As atividades industriais da globalização estão extremamente 
 alternativas: [
 {
 texto: "a) produção de conhecimento, como as de informática",
-afirmacao: "2-A) Esta alternativa esta correta pois as principais indústrias desse período estão relacionadas ao desenvolvimento tecnológico, como as de informática. "
+afirmacao:[ "2-A) Esta alternativa esta correta pois as principais indústrias desse período estão relacionadas ao desenvolvimento tecnológico, como as de informática. ",
+"Parabéns está correto, continue assim."],
 },
 {
 texto: "b) exploração de bens primários, como as madeireiras",
 
-afirmacao: "Está altenativa está incorreta. "
+afirmacao: ["Está altenativa está incorreta. ",
+    "Não foi dessa vez, mas continue se esforçando que irá conseguir! "]
 
 },
 {
 texto: "c) atividade de produção artesanal, como as têxteis",
-afirmacao: "Está altenativa está incorreta. "
+afirmacao: ["Está altenativa está incorreta. ",
+       "Não foi dessa vez, mas continue se esforçando que irá conseguir! "]
 },
 {
 texto: "d) alta exploração dos trabalhadores, como as de base",
-afirmacao: "Está alternativa está incorreta. "
+afirmacao: ["Está alternativa está incorreta. ",
+    "Não foi dessa vez, mas continue se esforçando que irá conseguir! "]
 }
 ]
 },
@@ -91,21 +95,25 @@ enunciado: "3 - Com relação ao espaço mundial, o processo de globalização p
 alternativas: [
 {
 texto: "a) melhoria da qualidade de vida das populações periféricas",
-afirmacao: "Está alternativa está incorreta. "
+afirmacao: ["Está alternativa está incorreta. ",
+"Não foi dessa vez, mas continue se esforçando que irá conseguir! "]
 },
 {
 texto: "b) utilização de mão de obra com baixa qualificação profissional",
-afirmacao: "Está alternativa está incorreta. "
+afirmacao:[ "Está alternativa está incorreta. ",
+    "Não foi dessa vez, mas continue se esforçando que irá conseguir! "]
 },
 {
 texto: "c) acentuação da desigualdade social entre diferentes regiões",
-afirmacao: "3-C) Esta alternativa esta correta pois a globalização não atua de maneira uniforme em todas as regiões do globo. "
+afirmacao:[ "3-C) Esta alternativa esta correta pois a globalização não atua de maneira uniforme em todas as regiões do globo. ",
+"Parabéns está correto, continue assim."],
 
 },
 
 {
 texto: "d)diminuição dos impactos ambientais gerados no globo",
-afirmacao: "Está alternativa está incorreta. "
+afirmacao: ["Está alternativa está incorreta. ",
+    "Não foi dessa vez, mas continue se esforçando que irá conseguir! "]
 
 }
 ]
